@@ -43,7 +43,7 @@
 
 -  [**WanderWings Landing Page**](#) — A travel-themed landing page with a modern UI.  
 -  [**Flower Shop Website**](#) — E-commerce style front-end design for flower products.  
--  [**Age Calculator App**](#) — Simple JavaScript app with responsive design.  
+-  [**Age Calculator App**](https://salmaabdelbast-beep.github.io/Age-Calculator/) — Simple JavaScript app with responsive design.  
 
 ---
 
