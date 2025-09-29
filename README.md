@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/>
   </a>
-  <a href="mailto:salma.abdelbaset@gmail.com">
+  <a href="mailto:salma2542024@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail"/>
   </a>
 </p>
