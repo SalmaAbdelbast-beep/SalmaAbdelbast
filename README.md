@@ -3,7 +3,7 @@
 </h2>
 
 <h2 align="center">
-  I'm Salma Abdelbaset, Front-End Developer & Social Media Marketer 
+  I'm Salma Abdelbaset, Front-End Developer. 
 </h2>
 
 <p align="center">
