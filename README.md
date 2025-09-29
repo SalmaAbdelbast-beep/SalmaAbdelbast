@@ -33,7 +33,6 @@
 <h2 align="left">👩🏻‍💻 About Me:</h2>
 
 - 🎨 I'm a **Front-End Developer** who loves building responsive, user-friendly websites.  
-- 📱 I'm also a **Social Media Marketer**, creating engaging content & ads.  
 - 🚀 Currently learning more about **JavaScript & React**.  
 - 🤝 Always open to collaborate on creative projects.  
 - 🌱 Life Motto: *"Keep learning, keep growing."*  
