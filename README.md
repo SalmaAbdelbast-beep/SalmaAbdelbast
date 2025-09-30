@@ -51,7 +51,7 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <p align="left">
-  <a href="www.linkedin.com/in/salma-abdelbast-953366366" target="_blank">
+  <a href="https://www.linkedin.com/in/salma-abdelbast-953366366/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/>
   </a>
   <a href="mailto:salma2542024@gmail.com">
