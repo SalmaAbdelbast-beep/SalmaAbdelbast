@@ -44,7 +44,9 @@
 -  [**WanderWings Landing Page**](#) — A travel-themed landing page with a modern UI.  
 -  [**Flower Shop Website**](#) — E-commerce style front-end design for flower products.  
 -  [**Age Calculator App**](https://salmaaabdelbast.github.io/Age-Calculator/) — Simple JavaScript app with responsive design.
--  [**Social Media Links**]( https://salmaaabdelbast.github.io/Social_links/) — A clean, responsive page to showcase and access all social media profiles in one place.    
+-  [**Social Media Links**]( https://salmaaabdelbast.github.io/Social_links/) — A clean, responsive page to showcase and access all social media profiles in one place.
+-  [**Rock Paper Scissors**](#) — A simple interactive game built with JavaScript.  
+-  [**(Tic-Tac-Toe)**](#) — Classic two-player Tic-Tac-Toe game built with HTML, CSS, and JavaScript.     
 
 ---
 
