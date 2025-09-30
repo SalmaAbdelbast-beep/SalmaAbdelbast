@@ -44,7 +44,7 @@
 -  [**WanderWings Landing Page**](#) — A travel-themed landing page with a modern UI.  
 -  [**Flower Shop Website**](#) — E-commerce style front-end design for flower products.  
 -  [**Age Calculator App**](#) — Simple JavaScript app with responsive design.
--  [**Social Media Links**](#) — A clean, responsive page to showcase and access all social media profiles in one place.    
+-  [**Social Media Links**]( https://salmaaabdelbast.github.io/Social_links/) — A clean, responsive page to showcase and access all social media profiles in one place.    
 
 ---
 
