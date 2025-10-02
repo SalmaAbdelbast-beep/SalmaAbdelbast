@@ -41,7 +41,6 @@
 
 <h2 align="left">:sparkles: Projects:</h2>
 
--  [**WanderWings Landing Page**](#) — A travel-themed landing page with a modern UI.  
 -  [**Flower Shop Website**](#) — E-commerce style front-end design for flower products.  
 -  [**Age Calculator App**](https://salmaaabdelbast.github.io/Age-Calculator/) — Simple JavaScript app with responsive design.
 -  [**Social Media Links**]( https://salmaaabdelbast.github.io/Social_links/) — A clean, responsive page to showcase and access all social media profiles in one place.
